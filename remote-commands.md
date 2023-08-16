@@ -40,7 +40,7 @@
 
 6. The command to change the URL of the remote "origin" to a new URL, such as `https://hostname/newuser/new-repo-name`, is:
    ```
-   git remote set-url oringin https://hostname/newuser/new-repo-name
+   git remote set-url origin https://hostname/newuser/new-repo-name
    ```
    This situation occurs when:
    - you change the name of a repo on Github
