@@ -52,5 +52,8 @@
    ```
    git remote add bitbucket https://thanidacwn@bitbucket.org/git-command-2023/
    ```
+   [bitbucket repository(second remote repository)](https://bitbucket.org/git-command-2023/git-commands/src/master/)
+   
+
    - Note: you must **create** an empty repo on Bitbucket. This command just adds it as a remote, it won't create the remote repo.
 
