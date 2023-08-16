@@ -216,18 +216,17 @@ test/
 
 ## Favorites
 
-```
-My favourite git commands is `git reset --hard`. 
+- My favourite git commands is `git reset --hard`. 
 this command can undo or discarding all the last commits.
-```
+
 
 ---
 ## Resources
 
-```
-My favourite git resource is [Pro Git Online Book][ProGit] 
+
+- My favourite git resource is [Pro Git Online Book][ProGit] 
 because it very easy to understand, detailed and clear.
-```
+
 
 * [Pro Git Online Book][ProGit] Chapters 2 & 3 contain the essentials. Downloadable e-book is available, too. 
 * [Visual Git Reference](https://marklodato.github.io/visual-git-guide) one page with illustrations of git commands.
